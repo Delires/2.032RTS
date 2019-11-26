@@ -1,0 +1,2 @@
+# 32RTS
+open rts
